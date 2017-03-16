@@ -1,4 +1,4 @@
-## Hi, I'm Franka
+# Hi, I'm Franka
 
 I live in Berlin and like typing code. I'm a backend developer and interested in building things with kind people.
 
@@ -8,7 +8,7 @@ You can contact me at mail\[at\]franka.tech. If you like, you can use my [pgp ke
 
 ## Projects
 
-I like working on open-source projects. You can find most of my code on [github](https://github.com/vsmart).
+I like working on open-source projects. You can find most of my code on [Github](https://github.com/vsmart).
 
 Some projects I've done recently:
 

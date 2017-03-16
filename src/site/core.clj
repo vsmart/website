@@ -2,6 +2,6 @@
   (:require  [hiccup.page :as hp]))
 
 (defn page  [data]
-    (hp/html5
-         [:div  {:style "max-width: 900px; margin: 40px auto;"}
+  (hp/html5
+    [:div  {:style "max-width: 900px; margin: 40px auto; font-family: Ubuntu, sans-serif"}
               (-> data :entry :content)]))
