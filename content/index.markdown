@@ -2,7 +2,7 @@
 
 I live in Berlin and like typing code. I'm a backend developer and interested in building things with kind people.
 
-I organise [ClojureBridge](https://clojurebridge-berlin.org) workshops in Berlin, where we give free coding workshops to women and non-binary people.
+I am one of the organisers of the [ClojureBridge](https://clojurebridge-berlin.org) chapter in Berlin. We give free coding workshops for women and non-binary people.
 
 You can contact me at mail\[at\]franka.tech. If you like, you can use my [pgp key](key) to contact me.
 
@@ -12,23 +12,22 @@ I like working on open-source projects. You can find most of my code on [Github]
 
 Some projects I've done recently:
 
-* [Delete Your Tweets](https://delete-your-tweets.franka.tech)
-  An app that lets you delete your old tweets. Written in Phoenix & Elixir.
+* _Delete Your Tweets._ An app that lets you delete your old tweets. It is built with Phoenix & Elixir and running on Heroku. You can try it [here](https://delete-your-tweets.franka.tech).
 
 ## Talks
 
 Recently I've given the following talks:
 
-* [Adventures in Homoiconicity](/talks/homoiconicity-talk) at [:clojureD Berlin](https://clojured.de)
+* _Adventures in Homoiconicity_  at [:clojureD Berlin](https://clojured.de) in February 2017 - [Slides](https://franka.tech/talks/homoiconicity-talk)
 
-* [Shipping an Elixir app: from first commit to live](/talks/ship-it-talk) at [Women Who Code Berlin](link)
+* _Shipping an Elixir app: from first commit to live_ at [Women Who Code Berlin](link) in January 2017 - [Slides](https://franka.tech/talks/ship-it-talk)
 
-* Mutation testing in Clojure with Mutant at the Clojure Meetup Berlin
+* _Mutation testing in Clojure with Mutant_ at the Clojure Meetup Berlin in December 2016
 
 ## Games
 
 I like making tiny games. You can play some of them online:
 
-* Sleepy dog: play it [here](/games/sleepy-dog)
+* _Sleepy dog._ A game made for the BerlinMiniJam in January 2017. It's written in Clojurescript with Quil. The theme was _Cats, Dogs and Nighttime_, so I made a game about a sleepy, hungry dog. You can play it [here](https://franka.tech/games/sleepy-dog).
 
-* The mermaid situation: try it [here](https://lislis.de/games/mermaid-situation)
+* _The mermaid situation._ try it [here](https://lislis.de/games/mermaid-situation)
