@@ -1,4 +1,4 @@
-# Hi, I'm Franka
+# Hi, I'm Franka &#128075;
 
 I live in Berlin and like typing code. I'm a backend developer and interested in building things with kind people.
 

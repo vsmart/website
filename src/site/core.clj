@@ -3,5 +3,10 @@
 
 (defn page  [data]
   (hp/html5
-    [:div  {:style "max-width: 900px; margin: 40px auto; font-family: Ubuntu, sans-serif"}
-              (-> data :entry :content)]))
+    [:head
+      [:title  "Hi, I'm Franka"]
+       (hp/include-css "main.css")]
+    [:body
+      [:div  {:class "wrapper"}
+              (-> data :entry :content)]]
+   ))
