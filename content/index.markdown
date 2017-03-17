@@ -32,4 +32,3 @@ I like making tiny games. You can play some of them online:
 * Sleepy dog: play it [here](/games/sleepy-dog)
 
 * The mermaid situation: try it [here](https://lislis.de/games/mermaid-situation)
-

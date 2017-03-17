@@ -7,10 +7,14 @@ body {
   margin: 40px auto;
 }
 
-a {
-  color: hotpink;
+h1,h2,h3 {
+  color: #836464;
 }
 
-a:hover {
+a {
+  color: #cb2789;
+}
+
+a:hover, a:active {
   color: purple;
 }
