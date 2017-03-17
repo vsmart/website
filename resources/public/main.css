@@ -6,3 +6,11 @@ body {
   max-width: 900px;
   margin: 40px auto;
 }
+
+a {
+  color: hotpink;
+}
+
+a:hover {
+  color: purple;
+}

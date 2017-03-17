@@ -5,8 +5,7 @@
   (hp/html5
     [:head
       [:title  "Hi, I'm Franka"]
-       (hp/include-css "main.css")]
+      (hp/include-css "main.css")]
     [:body
       [:div  {:class "wrapper"}
-              (-> data :entry :content)]]
-   ))
+        (-> data :entry :content)]]))

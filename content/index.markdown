@@ -15,7 +15,6 @@ Some projects I've done recently:
 * [Delete Your Tweets](https://delete-your-tweets.franka.tech)
   An app that lets you delete your old tweets. Written in Phoenix & Elixir.
 
-
 ## Talks
 
 Recently I've given the following talks:
