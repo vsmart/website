@@ -2,7 +2,7 @@
 
 I live in Berlin and like typing code. I'm a backend developer and interested in building things with kind people.
 
-I am one of the organisers of the [ClojureBridge](https://clojurebridge-berlin.org) chapter in Berlin. We give free coding workshops for women and non-binary people.
+I am one of the organisers of the [ClojureBridge](http://clojurebridge-berlin.org) chapter in Berlin. We give free coding workshops for women and non-binary people.
 
 You can contact me at mail\[at\]franka.tech. If you like, you can use my [pgp key](key) to contact me.
 
@@ -18,9 +18,9 @@ Some projects I've done recently:
 
 Recently I've given the following talks:
 
-* _Adventures in Homoiconicity_  at [:clojureD Berlin](https://clojured.de) in February 2017 - [Slides](https://franka.tech/talks/homoiconicity-talk)
+* _Adventures in Homoiconicity_  at [:clojureD Berlin](http://www.clojured.de/schedule/#details-9) in February 2017 - [Slides](https://franka.tech/talks/homoiconicity-talk)
 
-* _Shipping an Elixir app: from first commit to live_ at [Women Who Code Berlin](link) in January 2017 - [Slides](https://franka.tech/talks/ship-it-talk)
+* _Shipping an Elixir app: from first commit to live_ at [Women Who Code Berlin](https://www.meetup.com/Women-Who-Code-Berlin-Germany/events/236692747/) in January 2017 - [Slides](https://franka.tech/talks/ship-it)
 
 * _Mutation testing in Clojure with Mutant_ at the Clojure Meetup Berlin in December 2016
 
