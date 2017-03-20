@@ -4,7 +4,7 @@ I live in Berlin and like typing code. I'm a backend developer and interested in
 
 I am one of the organisers of the [ClojureBridge](http://clojurebridge-berlin.org) chapter in Berlin. We give free coding workshops for women and non-binary people.
 
-You can contact me at mail\[at\]franka.tech. If you like, you can use my [pgp key](key) to contact me.
+You can contact me at mail\[at\]franka.tech. If you like, you can use my [pgp key](https://franka.tech/Franka_pub.asc) to contact me.
 
 ## Projects
 
@@ -30,4 +30,4 @@ I like making tiny games. You can play some of them online:
 
 * _Sleepy dog._ A game made for the BerlinMiniJam in January 2017. It's written in Clojurescript with Quil. The theme was _Cats, Dogs and Nighttime_, so I made a game about a sleepy, hungry dog. You can play it [here](https://franka.tech/games/sleepy-dog).
 
-* _The mermaid situation._ try it [here](https://lislis.de/games/mermaid-situation)
+* _The mermaid situation._ A point-and-click made for LudumDare 2016 with ClojureScript and Quil. You're a mermaid stuck in a room who wants to get back to the sea. [here](https://lislis.de/games/mermaid-situation)
