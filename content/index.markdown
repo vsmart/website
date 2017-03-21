@@ -4,7 +4,7 @@ I live in Berlin and like typing code. I'm a backend developer and interested in
 
 I am one of the organisers of the [ClojureBridge](http://clojurebridge-berlin.org) chapter in Berlin. We give free coding workshops for women and non-binary people.
 
-You can contact me at mail\[at\]franka.tech. If you like, you can use my [pgp key](https://franka.tech/Franka_pub.asc) to contact me.
+You can contact me at hello\[at\]franka.tech. If you like, you can use my [pgp key](https://franka.tech/Franka_pub.asc) to contact me.
 
 ## Projects
 
