@@ -3,3 +3,6 @@ build:
 
 serve:
 	boot serve -r public watch markdown render -r site.core/page
+
+deploy:
+	scp -r target/public/* $(website_host)

@@ -18,3 +18,13 @@ a {
 a:hover, a:active {
   color: purple;
 }
+
+.navbar {
+  padding: 2em;
+  text-align: center;
+}
+
+.navbar-item {
+  padding: 1em;
+  margin: auto;
+}
