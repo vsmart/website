@@ -2,14 +2,18 @@
 
 I like working on open-source projects. You can find most of my code on [Github](https://github.com/vsmart).
 
-Some projects I've contributed to recently:
+Some projects I've contributed to:
 
-* _Delete Your Tweets._ An app that lets you delete your old tweets. It is built with Phoenix & Elixir and running on Heroku. You can try it [here](https://delete-your-tweets.franka.tech).
+[Green Cost Explorer](https://github.com/thegreenwebfoundation/green-cost-explorer/). Estimate your AWS Carbon Emissions using cost data. 2019 - ongoing.
+
+[Rorganize.it](https://rorganize.it). Find a programming study group in your area! Built with and by the [Rubycorns](https://rubycorns.club). 2016 - ongoing.
+
+[Delete Your Tweets](https://github.com/vsmart/delete-your-tweets). _Offline_. An app that lets you delete your old tweets. It is built with Phoenix & Elixir.
 
 ## Games
 
-I also like making tiny games. You can play some of them online:
+I like making tiny games. You can play some of them online:
 
-* _Sleepy dog._ A game made for the BerlinMiniJam in January 2017. It's written in Clojurescript with Quil. The theme was _Cats, Dogs and Nighttime_, so I made a game about a sleepy, hungry dog. You can play it [here](https://franka.tech/games/sleepy-dog).
+[Sleepy Dog](https://franka.tech/games/sleepy-dog). A game made for the BerlinMiniJam, written in Clojurescript with Quil. The theme was _Cats, Dogs and Nighttime_, so I made a game about a sleepy, hungry dog. January 2017.
 
-* _The mermaid situation._ A point-and-click that a friend and I made for LudumDare 2016 with ClojureScript and Quil. You're a mermaid stuck in a room who wants to get back to the sea. Try it [here](https://lislis.de/games/mermaid-situation)
+[The Mermaid Situation](https://lislis.de/games/mermaid-situation). A point-and-click that we made for LudumDare 2016 with ClojureScript and Quil. You're a mermaid stuck in a room who wants to get back to the sea. 2016.
