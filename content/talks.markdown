@@ -1,9 +1,17 @@
 # Talks
 
-Recently I've given the following talks:
+## 2018
 
-* _Adventures in Homoiconicity_  at [:clojureD Berlin](http://www.clojured.de/schedule/#details-9) in February 2017 - [Slides](https://franka.tech/talks/homoiconicity-talk)
+[On-Call Simulator: Building an interactive game for teaching incident response](https://vimeo.com/274820687), Monitorama Portland, June 2018
 
-* _Shipping an Elixir app: from first commit to live_ at [Women Who Code Berlin](https://www.meetup.com/Women-Who-Code-Berlin-Germany/events/236692747/) in January 2017 - [Slides](https://franka.tech/talks/ship-it)
+## 2017
 
-* _Mutation testing in Clojure with Mutant_ at the Clojure Meetup Berlin in December 2016
+[Moving to AWS ECS: The Not-So-Obvious Benefits](https://www.youtube.com/watch?v=rWv6xJ7w1Ts), AWS Re:Invent, Vegas, USA, December 2017
+
+[Adventures in Homoiconicity](https://www.youtube.com/watch?v=W6IEr43kVG4), [Slides](https://franka.tech/talks/homoiconicity-talk), :clojureD Conference Berlin, February 2017
+
+Shipping an Elixir app: from first commit to live, [Slides](https://franka.tech/talks/ship-it), [Women Who Code Berlin](https://www.meetup.com/Women-Who-Code-Berlin-Germany/events/236692747/), January 2017
+
+## 2016
+
+Mutation testing in Clojure with Mutant, Clojure Meetup Berlin, December 2016
