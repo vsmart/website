@@ -1,5 +1,7 @@
 # Talks
 
+I give talks on the topics of infrastructure/devops, security, on-call best practises and other topics! If you'd like me to speak at your event, please [send me an email](mailto:hello@franka.tech). Note I am only interested in speaking at events that have and enforce a solid Code of Conduct (for example the [Berlin Code of Conduct](https://berlincodeofconduct.org/)).
+
 ## 2018
 
 [On-Call Simulator: Building an interactive game for teaching incident response](https://vimeo.com/274820687), Monitorama Portland, June 2018
