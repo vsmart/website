@@ -8,7 +8,7 @@
      [:div {:class "navbar"}
        [:a {:href "/index.html" :class "navbar-item"} "Home"]
        [:a {:href "/projects.html" :class "navbar-item"} "Projects"]
-       [:a {:href "/talks.html" :class "navbar-item"} "Talks"]
+       [:a {:href "/talks.html" :class "navbar-item"} "Speaking"]
        ]
      (hp/include-css "main.css")]
     [:body
