@@ -6,7 +6,7 @@
     [:head
      [:title  "Hi, I'm Franka"]
      [:div {:class "navbar"}
-       [:a {:href "/index.html" :class "navbar-item"} "Home"]
+       [:a {:href "/index.html" :class "navbar-item"} "About"]
        [:a {:href "/projects.html" :class "navbar-item"} "Projects"]
        [:a {:href "/talks.html" :class "navbar-item"} "Speaking"]
        ]

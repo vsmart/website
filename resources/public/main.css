@@ -24,6 +24,7 @@ a:hover, a:active {
 .navbar {
   padding: 2em;
   text-align: center;
+  font-size: 25px;
 }
 
 .navbar-item {

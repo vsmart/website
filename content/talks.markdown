@@ -1,6 +1,6 @@
 # Speaking
 
-I give talks on the topics of infrastructure/devops, security, on-call best practises and other topics! If you'd like me to speak at your event, please [send me an email](mailto:hello@franka.tech). Note I am only interested in speaking at events that have and enforce a solid Code of Conduct (for example the [Berlin Code of Conduct](https://berlincodeofconduct.org/)).
+I give talks on the topics of infrastructure/devops, security, on-call best practises and other topics! If you'd like me to speak at your event, please [send me an email](mailto:hello@franka.tech).
 
 ## 2018
 
