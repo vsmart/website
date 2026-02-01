@@ -13,7 +13,7 @@ I'm a software engineer, dog person and coffee drinker based in Berlin.
 
 ## Work & Community
 
-Currently I work as a Senior Operations Engineer at Duolingo.
+Currently I work as a Senior Platform Engineer at [Duolingo](https://careers.duolingo.com). I'm also a member of the feminist hackspace [Heart of Code](https://heartofcode.org) in Berlin.
 
 From 2015 - 2019, I was one of the organisers of the [ClojureBridge](http://clojurebridge-berlin.org) chapter in Berlin. ClojureBridge organises free coding workshops for women and non-binary people.
 

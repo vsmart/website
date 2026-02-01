@@ -1,6 +1,6 @@
 baseURL: https://franka.tech/
 languageCode: en-us
-title: Hi, I'm Franka
+title: franka.tech
 theme: ["PaperMod"]
 menu:
   main:
