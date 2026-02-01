@@ -6,6 +6,10 @@ title = "Talks"
 
 I give talks on the topics of infrastructure/devops, security, on-call best practises and other topics! If you'd like me to speak at your event, please [send me an email](mailto:hello@franka.tech).
 
+## 2025
+
+[Duolingo's Kubernetes Leap](https://devsummit.infoq.com/presentation/munich2025/duolingos-kubernetes-leap), InfoQDevSummit, October 2025
+
 ## 2018
 
 [On-Call Simulator: Building an interactive game for teaching incident response](https://vimeo.com/274820687), Monitorama Portland, June 2018

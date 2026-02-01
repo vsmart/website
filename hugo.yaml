@@ -6,7 +6,7 @@ menu:
   main:
     - identifier: about
       name: about
-      url: /about
+      url: /
       weight: 10
     - identifier: projects
       name: projects
@@ -16,4 +16,3 @@ menu:
       name: speaking
       url: /speaking/
       weight: 30
-

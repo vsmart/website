@@ -9,7 +9,7 @@ I'm a software engineer, dog person and coffee drinker based in Berlin.
 ## Contact
 * [Send me an email](mailto:hello@franka.tech) - I'll be delighted if you use my [pgp key](https://franka.tech/Franka_pub.asc) to contact me!
 * Find my code on [Github](https://github.com/vsmart) or [Gitlab](https://gitlab.com/vsmart)
-* Reach me on [Mastodon](https://mastodon.social/@franka) ... or currently still at [Twitter](https://twitter.com/franschm)
+* Reach me on [Mastodon](https://mastodon.social/@franka)
 
 ## Work & Community
 
