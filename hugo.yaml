@@ -1,4 +1,19 @@
-baseURL: https://example.org/
+baseURL: https://franka.tech/
 languageCode: en-us
-title: My New Hugo Site
+title: Hi, I'm Franka
 theme: ["PaperMod"]
+menu:
+  main:
+    - identifier: about
+      name: about
+      url: /about
+      weight: 10
+    - identifier: projects
+      name: projects
+      url: /projects/
+      weight: 20
+    - identifier: speaking
+      name: speaking
+      url: /speaking/
+      weight: 30
+
